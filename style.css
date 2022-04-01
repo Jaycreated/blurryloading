@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=ubuntu');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'ubuntu', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}
+
+.bg {
+    background: url("https://www.pinterest.com/pin/10766486601736483/");
+}
